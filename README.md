@@ -2,6 +2,10 @@
 
 Interactive performance audit built with Python, Pandas, and Streamlit for a simulated B2B financial acquisition account.
 
+## Live Demo
+
+[View the interactive Google Ads Performance Audit](https://campaign-ads-performance-audit.streamlit.app/)
+
 ## Business objective
 
 Evaluate Google Ads performance using opened accounts as the primary conversion instead of leads or booked demos, connecting media investment with a deeper business outcome.
